@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Svygzhryr
-- 👀 I’m interested in filling these next lines
-- 🌱 I’m currently learning how to create this readme
-- 💞️ I’m looking to collaborate on doing things together
+- Currently doing frontend and these kinds of stuff.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Svygzhryr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+Things I study: 
 
 <!---
 Svygzhryr/Svygzhryr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
