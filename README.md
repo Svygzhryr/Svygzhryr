@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Svygzhryr
 - Currently doing frontend and these kinds of stuff.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Svygzhryr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svygzhryr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Things I study: 
 
