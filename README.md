@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning **Javascript, React, Webpack** and other extremely useful things
 
+</br>
+</br>
+
 <h3 align="center">I'm at:</h3>
 <p align="center">
 <a href="https://codepen.io/len0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="len0r" height="30" width="40" /></a>
