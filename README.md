@@ -33,6 +33,9 @@
  </h3>
 
 
+</br>
+<img src="https://www.codewars.com/users/Svygzhryr/badges/small">
+
 
 
 
