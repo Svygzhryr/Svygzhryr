@@ -23,15 +23,15 @@
 
 <h3 align="center">
     <a  href="https://vk.com/uebox">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="40" height="40" alt="vk.com">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg" width="40" height="40" alt="https://vk.com/uebox">
    </a>
   
   <a  href="https://t.me/svygzhryr">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="40" height="40" alt="vk.com">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="40" height="40" alt="https://t.me/svygzhryr">
    </a>
   
   <a  href="https://www.linkedin.com/in/pavel-mihailov-174319226/">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="40" height="40" alt="vk.com">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width="40" height="40" alt="https://www.linkedin.com/in/pavel-mihailov-174319226/">
    </a>
  </h3>
 
