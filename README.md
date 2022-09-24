@@ -5,7 +5,6 @@
 <a href="https://www.codewars.com/users/Svygzhryr">
     <img src="https://www.codewars.com/users/Svygzhryr/badges/large">
 </a>
-https://badges.peiyuan.ch/leetcode/{Svygzhryr}/solved?difficulty=<value>
 </h3>
 
 
