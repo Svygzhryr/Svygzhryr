@@ -1,4 +1,4 @@
-<h1 align="center">coding is one of my passions. i guess</h1>
+<h1 align="center">hi there</h1>
 
 </br>
 <h3>
