@@ -4,8 +4,8 @@
 <h3 align="center">
 <a href="https://www.codewars.com/users/Svygzhryr">
     <img src="https://www.codewars.com/users/Svygzhryr/badges/large">
-    [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Svygzhryr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </a>
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Svygzhryr&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </h3>
 
 
