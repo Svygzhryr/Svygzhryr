@@ -3,7 +3,7 @@
 </br>
 <h3>
 <a align="center" href="https://www.codewars.com/users/Svygzhryr">
-    <img src="https://www.codewars.com/users/Svygzhryr/badges/large">
+    <img src="https://www.codewars.com/users/rsschool_d5a0f38678952518/badges/large">
 </a>
 </h3>
 
